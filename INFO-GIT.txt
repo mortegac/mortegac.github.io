@@ -1,0 +1,8 @@
+
+
+COMMIT :  Snapshot de los cambios realizados
+
+
+INICIALIZAR LA CARPETA que quiero agregar a GIT
+#############################
+git init
